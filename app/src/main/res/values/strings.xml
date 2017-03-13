@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JTGJS</string>
+    <string name="about_us_heading">About Us</string>
+    <string name="about_us">J.T.Golden Jubilee is a C.B.S.E School.
+        The School enjoys an excellent location in the prime area of George Town, Allahabad.
+        It is centrally located within 2-3 kms. of the city railway station,bus stop and main commercial centres
+        .J.T.Golden Jubilee is a C.B.S.E School.
+        </string>
+    <string name="contact_us_heading">Contact Us</string>
+    <string name="phone_number">0532 - 2468802</string>
+    <string name="Address_heading">Address</string>
+    <string name="address">32B, Hamilton Road, George Town Allahabad, (UP)-211002</string>
+    <string name="email_heading">Email</string>
+    <string name="email">info@jtgjschool.in</string>
+    <string name="website_heading">Website</string>
+    <string name="website">www.jtgjschool.in</string>
+    <string name="color_backround_tint">#00b8d4</string>
+    <string name="imsge">imsge</string>
+</resources>
