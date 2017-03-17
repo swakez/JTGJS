@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
         CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout)findViewById(R.id.collapse_toolbar);
         collapsingToolbarLayout.setTitle("JTGJS");
+      //  collapsingToolbarLayout.setExpandedTitleColor(getResources().getColor(R.color.white));
     }
 }
